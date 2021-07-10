@@ -4080,7 +4080,7 @@
 				},
 				{
 					"abbreviation": "UNLV",
-					"prestige": "25",
+					"prestige": "95",
 					"hexColor": "#CF0A2C",
 					"offCoordinator": {
 						"contractLength": "3",
