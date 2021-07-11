@@ -3723,7 +3723,7 @@
 				},
 				{
 					"abbreviation": "CAT",
-					"prestige": "65",
+					"prestige": "63",
 					"hexColor": "#A6192E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3825,7 +3825,7 @@
 				},
 				{
 					"abbreviation": "HILLS",
-					"prestige": "64",
+					"prestige": "65",
 					"hexColor": "#492F24",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3876,7 +3876,7 @@
 				},
 				{
 					"abbreviation": "ARM",
-					"prestige": "65",
+					"prestige": "60",
 					"hexColor": "#024731",
 					"offCoordinator": {
 						"contractLength": "3",
