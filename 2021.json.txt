@@ -3620,8 +3620,8 @@
 		},
 		{
 			"confTeams": [{
-					"abbreviation": "BSU",
-					"prestige": "69",
+					"abbreviation": "DIT",
+					"prestige": "85",
 					"hexColor": "#0033A0",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3651,7 +3651,7 @@
 						"name": "Spencer Danielson",
 						"contractYear": "0"
 					},
-					"rival": "FRES",
+					"rival": "ARD",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3667,12 +3667,12 @@
 						"name": "Andy Avalos",
 						"contractYear": "0"
 					},
-					"name": "Boise State Broncos",
-					"state": "Idaho"
+					"name": "Denver Tech Rush",
+					"state": "Colorado"
 				},
 				{
-					"abbreviation": "FRES",
-					"prestige": "50",
+					"abbreviation": "ARD",
+					"prestige": "81",
 					"hexColor": "#DB0032",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3702,7 +3702,7 @@
 						"name": "William Inge",
 						"contractYear": "0"
 					},
-					"rival": "BSU",
+					"rival": "DIT",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3718,12 +3718,12 @@
 						"name": "Kalen Deboer",
 						"contractYear": "0"
 					},
-					"name": "Fresno State Bulldogs",
-					"state": "California"
+					"name": "Ardmore Thunderwolves",
+					"state": "Oklahoma"
 				},
 				{
-					"abbreviation": "SDSU",
-					"prestige": "55",
+					"abbreviation": "CAT",
+					"prestige": "65",
 					"hexColor": "#A6192E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3753,7 +3753,7 @@
 						"name": "Kurt Mattix",
 						"contractYear": "0"
 					},
-					"rival": "SJSU",
+					"rival": "DEN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3769,12 +3769,12 @@
 						"name": "Brady Hoke",
 						"contractYear": "0"
 					},
-					"name": "San Diego State Aztecs",
-					"state": "California"
+					"name": "Colorado A&T Sonic",
+					"state": "Colorado"
 				},
 				{
-					"abbreviation": "NDSU",
-					"prestige": "55",
+					"abbreviation": "MSU",
+					"prestige": "85",
 					"hexColor": "#0A5640",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3804,7 +3804,7 @@
 						"name": "David Braun",
 						"contractYear": "0"
 					},
-					"rival": "WYO",
+					"rival": "HILLS",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3820,12 +3820,12 @@
 						"name": "Matt Entz",
 						"contractYear": "0"
 					},
-					"name": "North Dakota State Bison",
-					"state": "North Dakota"
+					"name": "Multnomah State Oracs",
+					"state": "Oregon"
 				},
 				{
-					"abbreviation": "WYO",
-					"prestige": "50",
+					"abbreviation": "HILLS",
+					"prestige": "64",
 					"hexColor": "#492F24",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3855,7 +3855,7 @@
 						"name": "Jay Sawvel",
 						"contractYear": "0"
 					},
-					"rival": "NDSU",
+					"rival": "MSU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3871,12 +3871,12 @@
 						"name": "Craig Bohl",
 						"contractYear": "0"
 					},
-					"name": "Wyoming Cowboys",
-					"state": "Wyoming"
+					"name": "Hillsboro Wildcats",
+					"state": "Oregon"
 				},
 				{
-					"abbreviation": "HAW",
-					"prestige": "50",
+					"abbreviation": "ARM",
+					"prestige": "65",
 					"hexColor": "#024731",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3906,7 +3906,7 @@
 						"name": "Victor Cruz",
 						"contractYear": "0"
 					},
-					"rival": "NMU",
+					"rival": "SFS",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3922,12 +3922,12 @@
 						"name": "Todd Graham",
 						"contractYear": "0"
 					},
-					"name": "Hawaii Rainbow Warriors",
-					"state": "Hawaii"
+					"name": "Armarillo Armadillos",
+					"state": "Texas"
 				},
 				{
-					"abbreviation": "SJSU",
-					"prestige": "50",
+					"abbreviation": "DEN",
+					"prestige": "80",
 					"hexColor": "#0055A2",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3957,7 +3957,7 @@
 						"name": "Derrick Odum",
 						"contractYear": "0"
 					},
-					"rival": "SDSU",
+					"rival": "CAT",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3973,12 +3973,12 @@
 						"name": "Brent Brennan",
 						"contractYear": "0"
 					},
-					"name": "San Jose State Spartans",
-					"state": "California"
+					"name": "Denver University Pioneers",
+					"state": "Colorado"
 				},
 				{
-					"abbreviation": "NEV",
-					"prestige": "45",
+					"abbreviation": "CAU",
+					"prestige": "70",
 					"hexColor": "#003366",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4008,7 +4008,7 @@
 						"name": "Brian Ward",
 						"contractYear": "0"
 					},
-					"rival": "UNLV",
+					"rival": "LVU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4024,11 +4024,11 @@
 						"name": "Jay Norvell",
 						"contractYear": "0"
 					},
-					"name": "Nevada Wolfpack",
-					"state": "Nevada"
+					"name": "Cental Arizona Coyotes",
+					"state": "Arizona"
 				},
 				{
-					"abbreviation": "NMU",
+					"abbreviation": "SFS",
 					"prestige": "35",
 					"hexColor": "#BA0C2F",
 					"offCoordinator": {
@@ -4059,7 +4059,7 @@
 						"name": "Rocky Long",
 						"contractYear": "0"
 					},
-					"rival": "HAW",
+					"rival": "ARM",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4075,12 +4075,12 @@
 						"name": "Danny Gonzalez",
 						"contractYear": "0"
 					},
-					"name": "New Mexico Lobos",
+					"name": "Santa Fe State Roadrunners",
 					"state": "New Mexico"
 				},
 				{
-					"abbreviation": "UNLV",
-					"prestige": "95",
+					"abbreviation": "LVU",
+					"prestige": "25",
 					"hexColor": "#CF0A2C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4110,7 +4110,7 @@
 						"name": "Peter Hansen",
 						"contractYear": "0"
 					},
-					"rival": "NEV",
+					"rival": "CAU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4126,7 +4126,7 @@
 						"name": "Marcus Arroyo",
 						"contractYear": "0"
 					},
-					"name": "Las Vegas Rebels",
+					"name": "Las Vegas Raiders",
 					"state": "Nevada"
 				}
 			],
